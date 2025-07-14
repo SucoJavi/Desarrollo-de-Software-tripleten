@@ -10,7 +10,13 @@ Este espacio reúne el trabajo que he realizado durante mi formación en el boot
 
 ## 📂 Lista de Proyectos
 
-1. [Film Junky Union: Clasificación de Sentimiento](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
+1. [Comparación Musical: Análisis de Hábitos de Escucha](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
+
+**Descripción:** Análisis comparativo de preferencias musicales entre diferentes grupos de usuarios.
+
+**Tecnologías:** Python, Pandas.
+
+2. [Film Junky Union: Clasificación de Sentimiento](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
 
 **Descripción:** Desarrollo de un sistema para filtrar y categorizar reseñas de películas mediante técnicas de procesamiento de lenguaje natural (NLP).
 
