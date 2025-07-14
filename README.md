@@ -10,7 +10,7 @@ Este espacio reúne el trabajo que he realizado durante mi formación en el boot
 
 ## 📂 Lista de Proyectos
 
-1. [Comparación Musical: Análisis de Hábitos de Escucha](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
+1. [Comparación Musical: Análisis de Hábitos de Escucha](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Comparaci%C3%B3n_Musical.ipynb)
 
 **Descripción:** Análisis comparativo de preferencias musicales entre diferentes grupos de usuarios.
 
