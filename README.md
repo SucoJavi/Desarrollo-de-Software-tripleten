@@ -12,32 +12,33 @@ Este espacio reúne el trabajo que he realizado durante mi formación en el boot
 
 1. [Comparación Musical: Análisis de Hábitos de Escucha](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Comparaci%C3%B3n_Musical.ipynb)
 
-**Descripción:** Análisis comparativo de preferencias musicales entre diferentes grupos de usuarios.
+  **Descripción:** Análisis comparativo de preferencias musicales entre diferentes grupos de usuarios.
 
-**Tecnologías:** Python, Pandas.
+  **Tecnologías:** Python, Pandas.
 
 2. [Instacart: Predicción de Compras Futuras](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Instacart_Llena_ese_Carrito.ipynb)
 
-**Descripción:** Modelo predictivo para recomendar productos en función de compras pasadas.
+  **Descripción:** Modelo predictivo para recomendar productos en función de compras pasadas.
 
-**Tecnologías:** Python, Pandas, TensorFlow.
+  **Tecnologías:** Python, Pandas, TensorFlow.
 
 3. [Megaline: Análisis de Rentabilidad](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Mejor_Tarifa_Megaline.ipynb)
 
-**Descripción:** Estudio de rentabilidad de servicios de telecomunicaciones basados en datos históricos de clientes.
+  **Descripción:** Estudio de rentabilidad de servicios de telecomunicaciones basados en datos históricos de clientes.
 
-**Tecnologías:** Python, Seaborn, Pandas.
+  **Tecnologías:** Python, Seaborn, Pandas.
 
 4. [Ice Videojuegos: Análisis de Ventas](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Tienda_Online_Ice_Videojuegos.ipynb)
 
-**Descripción:** Análisis de ventas de videojuegos para identificar tendencias de mercado.
-**Tecnologías:** Python, Matplotlib, Pandas.
+  **Descripción:** Análisis de ventas de videojuegos para identificar tendencias de mercado.
+  
+  **Tecnologías:** Python, Matplotlib, Pandas.
 
 5. [Film Junky Union: Clasificación de Sentimiento](https://github.com/SucoJavi/Desarrollo-de-Software-tripleten/blob/main/Proyecto_Film_Junky_Union_clasificacion_de_sentimiento.ipynb)
 
-**Descripción:** Desarrollo de un sistema para filtrar y categorizar reseñas de películas mediante técnicas de procesamiento de lenguaje natural (NLP).
+  **Descripción:** Desarrollo de un sistema para filtrar y categorizar reseñas de películas mediante técnicas de procesamiento de lenguaje natural (NLP).
 
-**Tecnologías:** Python, Pandas, Scikit-learn, NLP.
+  **Tecnologías:** Python, Pandas, Scikit-learn, NLP.
 
 
 
